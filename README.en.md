@@ -71,7 +71,7 @@ Built with a robust Deno backend, it offers a seamless and professional-grade cr
 -   **Frontend**: Native HTML, CSS, JavaScript (No frameworks)
 -   **Backend**: Deno, Deno Standard Library
 -   **AI Models**:
-    *   [ModelScope](https://modelscope.cn/): `Qwen/Qwen-Image`, `MusePublic/FLUX.1`, etc.
+    *   [ModelScope](https://modelscope.cn/): `Qwen/Qwen-Image`, `Qwen/Qwen-Image-2512`, `MusePublic/FLUX.1`, etc.
     *   [OpenRouter](https://openrouter.ai/): `google/gemini-2.5-flash-image-preview` (for Nano Banana)
 
 ---

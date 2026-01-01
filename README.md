@@ -71,7 +71,7 @@
 -   **前端**: 原生 HTML, CSS, JavaScript (无框架)
 -   **后端**: Deno, Deno Standard Library
 -   **AI 模型**:
-    *   [魔搭 (ModelScope)](https://modelscope.cn/): `Qwen/Qwen-Image`, `MusePublic/FLUX.1` 等
+    *   [魔搭 (ModelScope)](https://modelscope.cn/): `Qwen/Qwen-Image`, `Qwen/Qwen-Image-2512`, `MusePublic/FLUX.1` 等
     *   [OpenRouter](https://openrouter.ai/): `google/gemini-2.5-flash-image-preview` (用于 Nano Banana)
 
 ---
